@@ -31,3 +31,35 @@ nav {
     color: white; 
     background-color: navy; 
 }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: navy;
+    color: white;
+    margin: 7px;
+    padding: 5px;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+  }
+
+  .dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    color: white; 
+    background-color: navy;
+  }
+
+  .dropdown-content a:hover {background-color: navy;}
+
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color:navy;}
