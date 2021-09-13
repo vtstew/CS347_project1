@@ -11,7 +11,7 @@ nav {
     height: 10px;
 }
 
-.lonely {
+#lonely {
     flex-grow: 1;
 }
 
