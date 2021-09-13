@@ -2,3 +2,8 @@
     margin: 10px auto 10px;
     display: block;
 }
+
+#site-navigation {
+    display: flex;
+    flex-direction: row;
+}
