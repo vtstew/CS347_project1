@@ -16,9 +16,8 @@ nav {
 }
 
 #lonely > lonelyButton {
-    font-size: 2em;
-    margin: 5px;
-
+    width: 2em;
+    height: 2em;
 }
 
 #button {
