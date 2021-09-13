@@ -9,11 +9,11 @@
     align-items: baseline;
 }
 
-#lonely {
+.lonely {
     flex-grow: 1;
 }
 
-#button {
+.button {
     font-size: 2em;
     margin: 5px;
 }
