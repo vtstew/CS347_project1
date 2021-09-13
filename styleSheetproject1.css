@@ -13,6 +13,7 @@ nav {
 
 #lonely {
     flex-grow: 1;
+    margin: 5px;
 }
 
 #lonely > lonelyButton {
