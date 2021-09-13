@@ -9,6 +9,7 @@ nav {
     align-items: baseline;
     background-color: navy;
     height: 60px;
+    justify-content: center;
 }
 
 #lonely {
