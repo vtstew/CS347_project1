@@ -3,7 +3,7 @@
     display: block;
 }
 
-#site-navigation {
+nav {
     display: flex;
     flex-direction: row;
     align-items: baseline;
