@@ -50,6 +50,13 @@ nav {
 
   }
 
+  #dropbtn {
+        background-color: navy;
+        color: white;
+        font-size: 1.5em;
+        margin: 5px;
+  }
+
   .dropdown-content a {
     padding: 12px 16px;
     text-decoration: none;
