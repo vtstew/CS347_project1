@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+}
+
+#title {
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+}
+.section {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.picSpot {
+    background-color: navy;
+    height: 450px;
+    width: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+.icon {
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+
+#pic {
+    border-style: double;
+    border-width: 5px;
+}
