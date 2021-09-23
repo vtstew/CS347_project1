@@ -1,0 +1,67 @@
+#aoe_ga_jmu {
+    text-align: center;
+    font-size: 1.8em;
+    color: rgb(56, 55, 55);
+}
+
+#about {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+#statmentDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#aboutP {
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 80vh;
+}
+
+#middle {
+    display: flex;
+    flex-direction: row;
+}
+
+#edge {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    background-color: silver;
+    border-radius: 20px;
+    border-color: navy;
+    border-width: 7px;
+    border-style: solid;
+}
+
+#edge > img {
+    height: 350px;
+    width: 200px;
+    border-color: white;
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#socialMedia {
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#logo {
+    height: 40px;
+}
+
+
