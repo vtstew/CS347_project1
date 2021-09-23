@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 #AOELogoPic {
     margin: 10px auto 10px;
     display: block;
@@ -55,4 +59,19 @@ nav {
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color:navy;}
+
+  #socialMedia {
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#logo {
+    height: 40px;
+}
 
