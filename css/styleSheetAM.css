@@ -39,7 +39,7 @@
 
 .fam .mask, .fam.content {
     width: 500px;
-    
+   
     position: absolute;
     overflow: hidden;
     display: flex;
@@ -47,9 +47,9 @@
     justify-content: center;
 }
 .fam img {
-    display: block;
-    position: relative;
-    height: 300px;
+    display: flex;
+    height: 250px;
+    justify-content: end;
      
 }
 .fam h2 {

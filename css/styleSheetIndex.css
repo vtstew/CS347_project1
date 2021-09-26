@@ -10,13 +10,13 @@
     flex-grow: 1;
 }
 
-#statmentDiv {
+.statmentDiv {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-#aboutP {
+.aboutP {
     justify-content: center;
     align-items: center;
     margin: 5px;
@@ -28,7 +28,7 @@
     flex-direction: row;
 }
 
-#edge {
+.edge {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@
     margin: 5px;
 }
 
-#edge > img {
+.edge > img {
     height: 350px;
     width: 200px;
     border-color: white;
