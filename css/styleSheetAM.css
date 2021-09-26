@@ -25,9 +25,21 @@
     display: flex;
     justify-content: center;
 }
+
+.fam .mask .names {
+    opacity: 0;
+    color: black;
+}
+.fam:hover .names {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.301);
+    height: 300px;
+    color: black;
+}
+
 .fam .mask, .fam.content {
     width: 500px;
-    height: 100px;
+    
     position: absolute;
     overflow: hidden;
     display: flex;
@@ -59,60 +71,5 @@
     padding: 10px 20px 20px;
     text-align: center;
 }
-.fam a.info {
-    display: inline-block;
-    text-decoration: none;
-    padding: 7px 14px;
-    background: #000;
-    color: #fff;
-    text-transform: uppercase;
-    box-shadow: 0 0 1px #000;
-}
-.fam a.info:hover {
-    box-shadow: 0 0 5px #000;
-}
-
-.fam-first img { 
-    transition: all 0.2s linear;
-}
-.fam-first .mask {
-    opacity: 0;
-    background-color: rgba(219,127,8, 0.7); 
-    transition: all 0.4s ease-in-out;
-}
-.fam-first h2 {
-    transform: translateY(-100px);
-    opacity: 0;
-    transition: all 0.2s ease-in-out;
-}
-.fam-first p { 
-    transform: translateY(100px);
-    opacity: 0;
-	transition: all 0.2s linear;
-}
-.fam-first a.info{
-    opacity: 0;
-	transition: all 0.2s ease-in-out;
-}
-
-.fam-first:hover img { 
-	transform: scale(1.1);
-} 
-.fam-first:hover .mask { 
-	opacity: 1;
-}
-.fam-first:hover h2,
-.fam-first:hover p,
-.fam-first:hover a.info {
-    opacity: 1;
-    transform: translateY(0px);
-}
-.fam-first:hover p {
-    transition-delay: 0.1s;
-}
-.fam-first:hover a.info {
-    transition-delay: 0.2s;
-}
-
 
 
