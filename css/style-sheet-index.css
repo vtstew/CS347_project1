@@ -33,6 +33,7 @@ h2 {
 #middle {
     display: flex;
     flex-direction: row;
+    max-width: 100%;
 }
 
 .edge {
@@ -84,7 +85,6 @@ h2 {
 
     #middle {
         width: 100%;
-        max-width: 100%;
     }
 }
 
