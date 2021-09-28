@@ -55,6 +55,7 @@
 @media only screen and (max-width: 500px) {
     .pic-spot {
         width: 90%;
+        margin-left: 10px;
     }
     .pic {
         height: 200px;
