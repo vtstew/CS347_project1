@@ -6,3 +6,8 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+#inner {
+    margin-left: 40px;
+    margin-right: 40px;
+}

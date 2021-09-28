@@ -86,4 +86,8 @@ h2 {
     #middle {
         width: 100%;
     }
+
+    .about-p {
+        width: 80%;
+    }
 }
