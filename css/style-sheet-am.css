@@ -10,6 +10,10 @@
     flex-wrap: wrap;
 }
 
+h1 {
+    font-family: sans-serif;
+}
+
 .fam {
     width: 500px;
     height: 300px;
