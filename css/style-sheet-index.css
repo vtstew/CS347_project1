@@ -11,7 +11,7 @@
     flex-grow: 1;
 }
 
-.statmentDiv {
+.statment-div {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,7 +21,7 @@ h2 {
     font-family: sans-serif;
 }
 
-.aboutP {
+.about-p {
     justify-content: center;
     align-items: center;
     margin: 5px;
@@ -79,7 +79,7 @@ h2 {
         display: none;
     }
 
-    .statmentDiv {
+    .statment-div {
         width: 100%;
     }
 
@@ -87,5 +87,3 @@ h2 {
         width: 100%;
     }
 }
-
-

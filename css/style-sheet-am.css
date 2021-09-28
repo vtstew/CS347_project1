@@ -4,7 +4,7 @@
     flex-direction: column;
 }
 
-#famPhoto {
+#fam-photo {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
