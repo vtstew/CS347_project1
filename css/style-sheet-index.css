@@ -70,9 +70,7 @@ h2 {
     .edge {
         border-radius: 10px;
         border-width: 3px;     
-    }
-
-    
+    }  
 }
 
 @media only screen and (max-width: 720px){
@@ -86,6 +84,7 @@ h2 {
 
     #middle {
         width: 100%;
+        max-width: 100%;
     }
 }
 
