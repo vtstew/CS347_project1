@@ -6,6 +6,7 @@ body {
     margin: 10px auto 10px;
     display: block;
     height: 170px;
+    max-width: 90%;
 }
 
 nav {
