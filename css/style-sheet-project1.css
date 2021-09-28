@@ -5,7 +5,7 @@ body {
 #AOELogoPic {
     margin: 10px auto 10px;
     display: block;
-    height: 170px;
+    height: 30vh;
     max-width: 90%;
 }
 
@@ -85,8 +85,6 @@ hr {
 
 @media (max-width: 900px) {
   #AOELogoPic {
-    margin: 10px auto 10px;
-    display: block;
-    height: 100px;
+    height: 20vh;
   }
 }
