@@ -93,4 +93,8 @@ hr {
     display: flex;
     justify-content: center;
   }
+
+  nav {
+    width: 100%;
+}
 }
