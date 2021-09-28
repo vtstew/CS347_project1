@@ -56,6 +56,9 @@ h2 {
     border-style: solid;
 }
 
-
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
 
 
