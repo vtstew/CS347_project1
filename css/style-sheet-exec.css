@@ -18,7 +18,7 @@
     flex-wrap: wrap;
     color: white;
     background-color: silver;
-    width: 65%;
+    width: 75%;
     border-radius: 5px;
 }
 .section {
@@ -40,15 +40,23 @@
     flex-direction: column;
     align-items: center;
 }
- 
 .pic {
     border-style: double;
     border-width: 6px;
     height: 300px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1100px) {
     .section {
         flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .pic-spot {
+        width: 90%;
+    }
+    .pic {
+        height: 200px;
     }
 }
