@@ -8,8 +8,7 @@ h1 {
 }
 
 #inner {
-    margin-left: 40px;
-    margin-right: 40px;
+    margin: 30px;
 }
 
 @media (max-width: 900px){
