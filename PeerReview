@@ -1,0 +1,48 @@
+1.	What did you like about this website?
+
+I really liked how the active members page had lots of pictures of the different families within 
+the sorority. This made it a lot more personal and appealing. People would be more likely to want 
+to join if they see friendly faces on the webpage.
+
+2.	Describe one significant difference between your own P1 site and this person's. E.g.
+
+One significant difference between my site and yours is that you added pictures of the exec 
+on the exec page, I like that because it helps people put a face to the names for when they 
+want to contact them.
+
+1.	Which has a better user experience (and why)?
+
+Personally, I think my site has a better user experience because for your site, when you use 
+it on a smaller device such as an ipad or phone, you can’t hover over things so you can’t actually 
+get to the facts or active members page. This also makes it so you can’t get to the form to sign up. 
+
+2.	Which codebase do you think would be more maintainable (and why)?
+
+I think her codebase would be easier to maintain because she has it more organized. I could have 
+organized mine into the files so that it was easier to maintain and work on. The spacing of her 
+code also makes it easier to read and understand. 
+
+3.	Is the code well-structured within files, and well-organized between files and directories?
+
+Yes, she organized the files really well by having folders for images and css and her code is very 
+well structured, looks appealing and is really easy to read.
+
+4.	Did you find any other issues? If so, briefly enumerate them.
+
+The only real issue I found was the navigation for tablets and phones due to the hover option.
+
+1.	were semantically appropriate elements selected
+
+I think that semantically appropriate elements were used throughout the files, she clearly 
+separated her html and css files and used good ids/classes to lay things out using css. 
+
+2.	is the CSS refactored to limit duplication?
+
+Yes, she had a css file for each page but also had one css file that was for all of them for 
+the basic layout of the page. This helps so that there is no repetition between files.
+
+5.	Do you have any other constructive comments for the author?
+
+Overall, I think you did a really good job, the only thing that I would take into account 
+is to change the navigation bar when on a handheld device so that the user experience is better. 
+Other than that I really like your site!
